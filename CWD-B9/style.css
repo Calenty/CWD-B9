@@ -1,0 +1,51 @@
+h1, h2, h, h4, h5, h6 p {
+    font-weight: 200;
+}
+
+.stock-link {
+    font-weight: 120;
+    font-size: 13px;
+}
+
+.adobe-stock {
+    position: sticky;
+    top: 0;
+}
+
+
+.stock-link-small {
+    font-weight: 120;
+    font-size: 10px;
+    margin-left: 25px;
+    
+}
+
+.stock-img {
+    margin: 23px 0px 10px;
+}
+
+.dashboard-title {
+    font-weight: 500;
+}
+
+a, .footer-text {
+    font-weight: 100;
+    font-size: small;
+}
+.card-value {
+    font-weight: 200;
+    font-size: 22px;
+}
+
+.fa-angle-up {
+    margin-right: 5px !important;
+}
+
+
+.sidenav-logo {
+    padding-top: 18px;
+}
+
+.arrow-drop {
+    padding-right: 5px
+}
